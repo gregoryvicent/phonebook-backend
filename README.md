@@ -12,7 +12,9 @@ Por favor siéntete libre de clonarlo y experimentar con el si te da curiosidad.
 ## Para iniciar el proyecto
 
 Primero clonar el repositorio.
+
 Ingresar en la carpeta creada al clonar el repositorio mediante la terminal.
+
 Ejecutar el comando:
 ```
 npm install
