@@ -1,6 +1,7 @@
 const express = require("express")
 const morgan = require("morgan")
 const bodyParser = require("body-parser")
+const crossOrigin = require("cross-origin")
 
 const route = require("./router/router.js")
 
@@ -19,6 +20,7 @@ app
 app
   .use(bodyParser.json())
   .use(morgan("dev"))
+  .use(crossOrigin)
   .use(route)
 
 module.exports = app

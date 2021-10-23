@@ -240,6 +240,11 @@ cookie@0.4.0:
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.0.tgz#beb437e7022b3b6d49019d088665303ebe9c14ba"
   integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
 
+cross-origin@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/cross-origin/-/cross-origin-1.0.6.tgz#cf00de90b1d88f446c46ef56896d95782bcb1125"
+  integrity sha512-DdWDlioLS6KNiY62G+/DeWSwY6VZ32j8O7LVo+7rsICf4qHVSkIrhjvQm4TLR4Qfb5E2kn5Y0SQxyd2nC4fVIg==
+
 crypto-random-string@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
