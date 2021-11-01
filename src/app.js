@@ -8,7 +8,7 @@ const route = require("./router/router.js")
 const app = express()
 
 app
-  .set("port", process.env.PORT | 3003)
+  .set("port", 3003)
 
 app
   .get("/", (req, res) => {
