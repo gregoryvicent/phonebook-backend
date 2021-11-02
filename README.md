@@ -9,6 +9,18 @@ Por favor siéntete libre de clonarlo y experimentar con el si te da curiosidad.
 - NODE.js
 - EXPRESS.js
 
+## Rutas:
+
+### Metodo GET todos los items: **https://phonebook-backend-gv.herokuapp.com/api**
+
+### Metodo GET item unico: **https://phonebook-backend-gv.herokuapp.com/api/:id**
+
+### Metodo POST: **https://phonebook-backend-gv.herokuapp.com/api**
+
+### Metodo PUT: **https://phonebook-backend-gv.herokuapp.com/api/:id**
+
+### Metodo DELETE: **https://phonebook-backend-gv.herokuapp.com/api/:id**
+
 ## Para iniciar el proyecto
 
 Primero clonar el repositorio.
